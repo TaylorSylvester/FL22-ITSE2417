@@ -1,6 +1,12 @@
-// Dummy class for FinalProject
-// Outputs a simple message when implementing begin()
-
+/**
+ *
+ * @author Taylor
+ *
+ * This program prints out the lyrics from the end song from the game Portal.
+ * Including its ASCII text art.
+ * The source for the song can be found here: https://youtu.be/nfRlrV8awo0?t=49
+ *
+ */
 public class TSPortalCreditsLyrics implements FinalProject
 {
 
