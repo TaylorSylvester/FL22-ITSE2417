@@ -61,7 +61,7 @@ public class Itse2417Main
             new FinalProj(),          // Murphy
             new FinalProj(),          // Murzayeva
             new FinalProj(),          // Ramirez
-            new FinalProj(),          // Sylvester
+            new TSPortalCreditsLyrics(),          // Sylvester
             new FinalProj(),          // Thurman
             new FinalProj(),          // Vanslyke                                                
             new SmileyMenu()          // Smiley
